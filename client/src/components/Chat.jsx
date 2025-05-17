@@ -1,0 +1,3 @@
+// Componente de chat
+import React from 'react';
+...

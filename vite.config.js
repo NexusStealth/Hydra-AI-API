@@ -1,0 +1,2 @@
+// Configurações Vite
+export default {...};

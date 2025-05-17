@@ -1,0 +1,3 @@
+// Conexão Firebase
+import { initializeApp } from 'firebase/app';
+...

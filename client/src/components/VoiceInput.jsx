@@ -1,0 +1,3 @@
+// Entrada de voz
+import React from 'react';
+...

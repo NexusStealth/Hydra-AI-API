@@ -1,0 +1,3 @@
+// App principal
+import React from 'react';
+...

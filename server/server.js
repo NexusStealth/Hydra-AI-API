@@ -1,0 +1,3 @@
+// Inicialização do servidor
+require('./app');
+...
