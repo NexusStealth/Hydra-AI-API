@@ -1,2 +1,0 @@
-// Configuração Firebase
-module.exports = {...};
