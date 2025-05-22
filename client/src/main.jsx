@@ -1,3 +1,0 @@
-// Ponto de entrada
-import React from 'react';
-...

@@ -1,3 +1,0 @@
-// Página Home
-import React from 'react';
-...

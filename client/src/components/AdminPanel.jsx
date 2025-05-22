@@ -1,3 +1,0 @@
-// Painel do Admin
-import React from 'react';
-...
